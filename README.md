@@ -27,8 +27,7 @@ the same as [facebookresearch fastText](https://github.com/facebookresearch/fast
 
 ### Text classification
 
-This library can also be used to train supervised text classifiers, for instance for sentiment analysis.
-In order to train a text classifier using the method described in [2](#bag-of-tricks-for-efficient-text-classification), use:
+This library can also be used to train supervised text classifiers, for instance for sentiment analysis. use:
 
 ```
 $ ./fasttext supervised -input train.txt -output model
