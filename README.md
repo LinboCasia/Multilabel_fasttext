@@ -68,15 +68,10 @@ See `main_run.sh` for an example use case.
 You can run the following command to train(test/predict/predict-prob)
 
 ```
+$ chmod 755 main_run.sh
 $ ./main_run.sh train
-```
-```
 $ ./main_run.sh test
-```
-```
 $ ./main_run.sh predict
-```
-```
 $ ./main_run.sh predict-prob
 ```
 
