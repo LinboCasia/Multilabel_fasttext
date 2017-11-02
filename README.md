@@ -1,6 +1,7 @@
 # Multilabel_fasttext
 
-Multilabel Classification base [facebookresearch fastText](https://github.com/facebookresearch/fastText)
+Multilabel Classification base [facebookresearch fastText](https://github.com/facebookresearch/fastText).
+
 The requirements is the same as facebookresearch fastText
 
 
